@@ -27,7 +27,7 @@ And next, it describes how to output localized sentences and words defined in th
 <localization-element key="amount", parms="123"></localization-element>
 ```
 
-## How to define language want
+## How to define language you want
 Declares a global and statically variable called language
 
 > The value defined must be the name of the json file.
