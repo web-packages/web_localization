@@ -23,7 +23,7 @@ And next, it describes how to output localized sentences and words defined in th
 <!-- Sentences and words -->
 <localization-element key="hello"></localization-element>
 
-<!-- Use place holder, (flexible localizable) -->
+<!-- Use place holder, (flexible localizable way) -->
 <localization-element key="amount", parms="123"></localization-element>
 ```
 
