@@ -8,7 +8,7 @@ Ideally Implemented simple web user-language localization example.
 The following describes how to define the contents of the json files within the localizations folder, <br />
 And this example json file is `korean.json` provided by default.
 
-> How to define parameters is by inserting {0} to content `json value`.
+> How to define parameters is by inserting {index} to content `json value`.
 
 ```json
 {
