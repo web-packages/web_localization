@@ -26,3 +26,10 @@ And next, it describes how to output localized sentences and words defined in th
 <!-- Place holder, (flexible localizable) -->
 <localization-element key="amount", parms="123"></localization-element>
 ```
+
+## How to customizing
+
+The following describes how to redefine custom-element name.
+```js
+customElements.define('localization-element', LocalizationElement);
+```
