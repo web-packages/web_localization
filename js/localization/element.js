@@ -43,7 +43,7 @@ class LocalizationElement extends HTMLElement {
     static get observedAttributes() { return ['key', 'parms']; }
 
     attributeChangedCallback(name, oldValue, newValue) {
-        // if updated attributes of this element.
+        // if updated attribute of this element on the way.
         if (oldValue != null && oldValue != newValue) {
             this.updateInnerHtml();
         }
