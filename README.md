@@ -35,7 +35,7 @@ const language = 'korean';
 ```
 
 ### Reason
-This is because it always refers to a variable called 'language'.
+This is because it always refers to a variable called `language`.
 
 ![sdfsfdsfs](https://github.com/MTtankkeo/web_localization/assets/122026021/afaa47f3-1c57-440b-9d01-5d758494d59c)
 
