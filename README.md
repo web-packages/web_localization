@@ -35,6 +35,7 @@ const language = 'korean';
 ```
 
 ### Reason
+Reference language variable.
 ![sdfsfdsfs](https://github.com/MTtankkeo/web_localization/assets/122026021/afaa47f3-1c57-440b-9d01-5d758494d59c)
 
 ## How to customizing
