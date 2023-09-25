@@ -27,6 +27,13 @@ And next, it describes how to output localized sentences and words defined in th
 <localization-element key="amount", parms="123"></localization-element>
 ```
 
+## How to define language want
+```js
+// Declares a global and statically variable called language,
+// the value defined must be the name of the json file.
+const language = 'korean';
+```
+
 ## How to customizing
 
 The following describes how to redefine custom-element name.
