@@ -45,6 +45,9 @@ This is basically because it always refers to a variable called `language`.
 ## How to customizing
 
 The following describes how to redefine custom-element name.
+
+> `-` must be included in element name.
+
 ```js
 // Define the first argument of customElements.define with the name you want.
 customElements.define('localization-element', LocalizationElement);
