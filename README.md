@@ -28,9 +28,11 @@ And next, it describes how to output localized sentences and words defined in th
 ```
 
 ## How to define language want
+Declares a global and statically variable called language
+
+> The value defined must be the name of the json file.
+> 
 ```js
-// Declares a global and statically variable called language,
-// the value defined must be the name of the json file.
 const language = 'korean';
 ```
 
