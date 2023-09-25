@@ -3,8 +3,6 @@ Ideally Implemented simple web user-language localization example.
 
 > The example doesn't work in the local environment.
 
-- - -
-
 ## Useble
 
 The following describes how to define the contents of the json files within the localizations folder, <br />
@@ -28,8 +26,6 @@ And next, it describes how to output localized sentences and words defined in th
 <!-- Place holder, (flexible localizable) -->
 <localization-element key="amount", parms="123"></localization-element>
 ```
-
-- - -
 
 ## How to customizing
 
