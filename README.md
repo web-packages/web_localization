@@ -1,7 +1,7 @@
 # Web Localization
 Ideally Implemented simple web user-language localization example.
 
-`The example doesn't work in the local environment.`
+- The example doesn't work in the local environment.
 
 ## Useble
 The following describes how to define the contents of the json files within the localizations folder,
