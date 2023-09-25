@@ -4,7 +4,7 @@
 class LocalizationElement extends HTMLElement {
     constructor() { super(); }
 
-    connectedCallback() {
+    updateInnerHtml() {
         const hasKey = this.hasAttribute('key');
 
         if (hasKey) {
@@ -35,6 +35,17 @@ class LocalizationElement extends HTMLElement {
             });
         } else {
             throw 'Has not key attribute in this element';
+        }
+    }
+
+    connectedCallback() { this.updateInnerHtml(); }
+
+    static get observedAttributes() { return ['key', 'parms']; }
+
+    attributeChangedCallback(name, oldValue, newValue) {
+        // if updated attributes of this element.
+        if (oldValue != null && oldValue != newValue) {
+            this.updateInnerHtml();
         }
     }
 }
