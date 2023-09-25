@@ -31,6 +31,6 @@ And next, it describes how to output localized sentences and words defined in th
 
 The following describes how to redefine custom-element name.
 ```js
-// Define the first argument of customElements.define with the name you desire.
+// Define the first argument of customElements.define with the name you want.
 customElements.define('localization-element', LocalizationElement);
 ```
