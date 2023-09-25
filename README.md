@@ -7,7 +7,7 @@ Ideally Implemented simple web user-language localization example.
 ```json
 {
     "undefined": "정의되지 않음",
-    "...": "...",
-    "...": "{0} ..."
+    "hello": "안녕하세요",
+    "amount": "{0}개"
 }
 ```
