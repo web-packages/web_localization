@@ -33,6 +33,7 @@ Declares a global and statically variable called language
 > The value defined must be the name of the json file.
 > 
 ```js
+/// The current language (json file name).
 const language = 'korean';
 ```
 
