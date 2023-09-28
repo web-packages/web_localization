@@ -3,7 +3,7 @@ Ideally Implemented simple web user-language localization example.
 
 > The example doesn't work in the local environment.
 
-## Useble
+## Usage
 
 The following describes how to define the contents of the json files within the localizations folder, <br />
 And this example json file is `korean.json` provided by default.
@@ -24,7 +24,7 @@ And next, it describes how to output localized sentences and words defined in th
 <localization-element key="hello"></localization-element>
 
 <!-- Use place holder, (flexible localizable way) -->
-<localization-element key="amount", parms="123"></localization-element>
+<localization-element key="amount" parms="123"></localization-element>
 ```
 
 ## How to define language you want
