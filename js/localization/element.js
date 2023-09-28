@@ -9,8 +9,8 @@ class LocalizationElement extends HTMLElement {
         const hasKey = this.hasAttribute('key');
 
         if (hasKey) {
-            const key   = this.getAttribute('key');
-            const parms = this.getAttribute('parms');
+            let key   = this.getAttribute('key');
+            let parms = this.getAttribute('parms');
 
             const json = await (await fetch(`../../localizations/${language}.json`)).json();
             
