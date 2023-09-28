@@ -24,7 +24,7 @@ And next, it describes how to output localized sentences and words defined in th
 <localization-element key="hello"></localization-element>
 
 <!-- Use place holder, (flexible localizable way) -->
-<localization-element key="amount", parms="123"></localization-element>
+<localization-element key="amount" parms="123"></localization-element>
 ```
 
 ## How to define language you want
