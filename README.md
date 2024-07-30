@@ -1,4 +1,8 @@
-# Web Localization
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/33853a95-6c6e-4316-9bd9-090e069439c9">
+    <h1>Web Localization</h1>
+</div>
+
 Ideally Implemented simple web user-language localization example.
 
 > The example doesn't work in the local environment.
