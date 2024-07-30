@@ -5,6 +5,7 @@
 
 Ideally Implemented simple web user-language localization example.
 
+> [!WARNING]
 > The example doesn't work in the local environment.
 
 > You can use `server-side rendering` and `service worker` to resolve lazy load issues.
