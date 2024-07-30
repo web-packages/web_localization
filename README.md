@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/33853a95-6c6e-4316-9bd9-090e069439c9">
+    <img src="https://github.com/user-attachments/assets/b28a139f-8bb3-4186-ae10-b991b43697a8">
     <h1>Web Localization</h1>
 </div>
 
