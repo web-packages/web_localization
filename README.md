@@ -1,12 +1,20 @@
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/b28a139f-8bb3-4186-ae10-b991b43697a8">
+    <img src="https://github.com/user-attachments/assets/4e450def-dded-42e9-b1ab-876c19d55618">
     <h1>Web Localization</h1>
+    <table>
+        <thead>
+          <tr>
+            <th>Version</th>
+            <th>v1.0.0-dev</th>
+          </tr>
+        </tbody>
+    </table>
 </div>
 
 Ideally Implemented simple web user-language localization example.
 
 > [!WARNING]
-> The example doesn't work in the local environment.
+> The example doesn't work in the local environment,And i'll be renewing <br>this package for the better soon.
 
 > You can use `server-side rendering` and `service worker` to resolve lazy load issues.
 
