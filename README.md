@@ -14,7 +14,7 @@
 Ideally Implemented simple web user-language localization example.
 
 > [!WARNING]
-> The example doesn't work in the local environment,And i'll be renewing <br>this package for the better soon.
+> The example doesn't work in the local environment, And i'll be renewing <br>this package for the better soon.
 
 > You can use `server-side rendering` and `service worker` to resolve lazy load issues.
 
